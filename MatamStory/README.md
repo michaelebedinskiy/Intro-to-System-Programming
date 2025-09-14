@@ -15,9 +15,8 @@ MatamStory is a simplified RPG game inspired by MapleStory.
 - UML-based planning
 
 ## ✨ Features
-Extendable system — easy to add new jobs, monsters, or events.
-Clear separation of design (dry.pdf) and implementation.
-Tested with automated input/output comparisons.
+- Extendable system — easy to add new jobs, monsters, or events.
+- Tested with automated input/output comparisons.
 
 ## 🚀 Running the Game
 Compile:
