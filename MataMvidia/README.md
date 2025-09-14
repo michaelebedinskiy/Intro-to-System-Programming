@@ -1,6 +1,6 @@
-# Systems Programming Homework – Matrix & MataMvidia Modules 🟦🎬
+# Matrix & MataMvidia Modules 🟦🎬
 
-This project contains the **Wet Part** solution for the **Introduction to Systems Programming** course (Technion, Spring 2024).  
+This project implements a ** matrix module ** and a ** movie navigation module ** as part of the **Introduction to System Programming** course (Technion, Spring 2024).  
 It implements matrix operations and video frame management using C++.
 
 ---
@@ -29,7 +29,8 @@ It implements matrix operations and video frame management using C++.
 - Dynamic memory management  
 - Operator overloading  
 - Modular programming  
-
+- No STL
+  
 ---
 
 ## ⚙️ Usage
