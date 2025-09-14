@@ -1,4 +1,4 @@
-# Matrix & MataMvidia Modules 🟦🎬
+# Matrix & MataMvidia Modules 🎬
 
 This project implements a ** matrix module ** and a ** movie navigation module ** as part of the **Introduction to System Programming** course (Technion, Spring 2024).  
 It implements matrix operations and video frame management using C++.
