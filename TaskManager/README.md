@@ -10,7 +10,7 @@ This project implements a **generic sorted list** and a **task management system
 ## 🛠️ Tech Stack
 - C++17
 - Object-oriented design
-- STL containers where appropriate
+- No STL containers
 - Custom iterators, generic programming, exception handling
 
 ## 🚀 Running Tests
