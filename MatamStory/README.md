@@ -23,7 +23,8 @@ Tested with automated input/output comparisons.
 Compile:
 ```bash
 g++ --std=c++17 -o MatamStory -Wall -pedantic-errors -Werror -DNDEBUG *.cpp Events/*.cpp Players/*.cpp -I. -I./Players -I./Events
-
+```
 Run:
 ```bash
 ./MatamStory tests/test1.events tests/test1.players
+```
